@@ -1,0 +1,14 @@
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\bin\Debug\net8.0\Aula0.exe
+C:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\bin\Debug\net8.0\Aula0.deps.json
+C:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\bin\Debug\net8.0\Aula0.runtimeconfig.json
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\bin\Debug\net8.0\Aula0.dll
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\bin\Debug\net8.0\Aula0.pdb
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.AssemblyInfoInputs.cache
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.AssemblyInfo.cs
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.csproj.CoreCompileInputs.cache
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.dll
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\refint\Aula0.dll
+c:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.pdb
+C:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\Aula0.genruntimeconfig.cache
+C:\Users\enric\OneDrive\Documentos\CursoProgramacaoC#\Aula1\obj\Debug\net8.0\ref\Aula0.dll
